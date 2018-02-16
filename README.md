@@ -1,1 +1,1 @@
-# new-shop is ecommerce site built by Laravel
+# new-shop is ecommerce site developed  by Laravel
